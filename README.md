@@ -74,8 +74,6 @@ Before running the application, install:
 - Node.js
 - npm
 
-- A Google Cloud project with Gmail API access
-
 ---
 
 # Google OAuth Setup
